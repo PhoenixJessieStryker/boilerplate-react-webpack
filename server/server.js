@@ -6,4 +6,8 @@ const server = express()
 server.use(express.json())
 server.use(express.static(path.join(__dirname, './public')))
 
+server.get('/', (req, res) => {
+    
+}
+
 module.exports = server
