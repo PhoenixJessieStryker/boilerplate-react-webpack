@@ -1,0 +1,155 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+* 
+   outline: 1px solid rgb(119, 0, 255) !important; 
+ }
+
+ .description {
+     max-width: 705px;
+ }
+ .app {
+    display: -webkit-flex;
+    display: flex;
+}
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+*
+    border: 1px solid red !important;
+}
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+
+.col-z {
+    width: 8.33%;
+}.col-2 {
+    width: 16.66;
+}
+.col-3 {
+    width: 25%;
+}
+.col-3-5 {
+    width: 28%
+}
+.col-4 {
+    width: 33.33%;
+}
+.col-5 {
+    width: 41.66%;
+}
+.col-6 {
+    width: 50%;
+}
+.col-7 {
+    width: 58.33%;
+}
+.col-8 {
+    width: 66.66%;
+}
+.col-9 {
+    width: 75%;
+}
+.col-10 {
+    width: 83.33%;
+}
+.col-11 {
+    width: 91.66%;
+}
+.col-12 {
+    width: 100%;
+}
+.col-4 {
+    background: rgb(61, 63, 70);
+}
+.col-5 {
+    background: rgb(112, 112, 112);
+}
+
+
+
+
+
+
+
+
+h4 {
+    color: rgb(76, 57, 248);
+}
+a {
+    color: rgb(49, 49, 25);
+}
+
+p {
+    color: black;
+}
+b {
+    color: black;
+}
+h1 h2 {
+    text-shadow: 2px 2px 5px rgb(145, 145, 145);
+}
+h1 {
+    color: rgb(174, 0, 255);
+}
+h3 ,h2  {
+    color: white
+}
+h3 {
+    text-shadow: 2px 2px 5px rgb(27, 223, 213);
+}
+.adventure {
+    max-height: 60%
+}
+.adventure {
+    max-width:  60%
+}
+* {
+font-family: 'Indie Flower', cursive;
+}
+.col-2 {
+    background: rgb(27, 223, 213);
+}
+* {
+    font-family: 'Indie Flower', cursive;
+    }
+    .main-image{
+        float: left;
+        display: inline;
+        position: relative;
+      }
+
+      Nav{
+        background-color: #ffffff;
+        border: 10px solid rgb(119, 119, 119);
+        padding: 10px;
+      }
+      Section {
+        background-color: rgb(61, 63, 70);
+        border: 10px solid rgb(119, 119, 119);
+        padding: 15px;
+      }
